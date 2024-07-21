@@ -25,6 +25,9 @@ script.js
 This setup provides a basic but functional interactive quiz application where users can answer multiple-choice questions, receive immediate feedback, and view their score at the end. You can further enhance this application by adding more features such as time limits, question shuffling, or storing user scores.
 
 
+Here are some work of Screenshorts:-
+
+
 ![Screenshot (12)](https://github.com/user-attachments/assets/b897c5c4-c76e-4848-a373-49f06b0e6063)
 ![Screenshot (13)](https://github.com/user-attachments/assets/72ac99c9-7086-44f4-8fb4-d64a9a43531a)
 ![Screenshot (14)](https://github.com/user-attachments/assets/43244cec-bc2d-425d-86dc-5d0ab1ad410b)
