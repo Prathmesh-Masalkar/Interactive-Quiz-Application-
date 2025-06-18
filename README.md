@@ -1,5 +1,3 @@
-Name- Prathmesh Prashant Masalkar 
-
 INTERACTIVE QUIZ APPLICATION
 
 OVERVIEW:- Build an interactive quiz application where users can answer multiple-choice questions and receive feedback. Use JavaScript to handle quiz logic (e.g., scoring, question navigation). Display results at the end of the quiz.
