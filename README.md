@@ -1,9 +1,6 @@
 Name- Prathmesh Prashant Masalkar 
-Company-CODTECH IT SOLUTIONS PVT.LTD ID-CT4FWD3474 
-Domain-FRONTEND WEB DEVELOPMENT 
-Duration-June-July2024 
-Mentor-Neela Santhosh Kumar 
-Overview:- INTERACTIVE QUIZ APPLICATION
+
+INTERACTIVE QUIZ APPLICATION
 
 OVERVIEW:- Build an interactive quiz application where users can answer multiple-choice questions and receive feedback. Use JavaScript to handle quiz logic (e.g., scoring, question navigation). Display results at the end of the quiz.
 
